@@ -8,9 +8,12 @@ The resulting data sets are derived from [1].
 
 The differences from the original data set:
 
-1.Combining the test and training data from the original dataset
+1.Combining the test and training data from the original dataset.
+
 2.Selecting mean and standard deviation of select features (focusing on those losest to the raw data) - more below.
+
 3.Adding meaningful labels.
+
 4.Building a tidy data table showing the average mean and standard deviation of the selected variables across the dataset.
 
 ### How the variables were selected
