@@ -1,7 +1,5 @@
 #CodeBook For Data Sets Produced By `run_analysis.R`
 ===================================================
-The resulting data sets are derived from [1].
-
 ## The dataset includes the following file
 
 - `TidyAverageData.txt` - The summarized tidy dataset transformed from the original as described below.
