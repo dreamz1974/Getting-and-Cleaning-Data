@@ -1,5 +1,5 @@
 #Getting-and-Cleaning-Data - Project
-====================================
+-------------------------------------
 As per the course assignment, We should create one R script called run_analysis.R that does the following.
  • Merges the training and the test sets to create one data set.
  • Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -8,14 +8,14 @@ As per the course assignment, We should create one R script called run_analysis.
  • Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Data Set
-========================================
+-----------
  Source dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
  
 ##Assumptions & Notes
-======================
- • Requires the ```dplyr``` & ```reshape2``` packages to be installed.
- • All Column names containing `...mean()` and `...std()` in them have been extracted.
- • The `CodeBook.md` describes the variables, the data, and the work that has been performed to clean up the data.
+----------------------
+1. Requires the ```dplyr``` & ```reshape2``` packages to be installed.
+2. All Column names containing `...mean()` and `...std()` in them have been extracted.
+3. The `CodeBook.md` describes the variables, the data, and the work that has been performed to clean up the data.
   
 ## Steps for Execution of this course project
 ========================================
